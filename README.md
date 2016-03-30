@@ -10,4 +10,4 @@ The program trains the network using the training set and displays the error on 
 
 You can experiment with the number of neurons in the hidden layer, the number of learning epochs and perhaps try different activation functions.
 
-I hope it will be useful.
+The data set for this program can be downloaded from the UCI Machine Learning Repository http://archive.ics.uci.edu/ml/datasets/Optical+Recognition+of+Handwritten+Digits
